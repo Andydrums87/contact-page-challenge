@@ -159,7 +159,11 @@ textarea {
     }
     .form-container {
         display: block;
-        width:80vw;
+        width:90vw;
+    }
+
+    label {
+        width: 100%;
     }
 
     .container {
